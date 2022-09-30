@@ -1,5 +1,24 @@
 {
   "data": [
-   
+    {
+      "mealImage": "food.png",
+      "meal": "basmati Jollof Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+      "extra": "",
+      "drink": "",
+      "fruit": "",
+      "quantity": 2,
+      "price": 6000,
+      "id": 4
+    },
+    {
+      "mealImage": "food.png",
+      "meal": "basmati Fried Rice + Dodo + Gizzard + Turkey + Drink + Fruit",
+      "extra": "",
+      "drink": "",
+      "fruit": "",
+      "quantity": 1,
+      "price": 3500,
+      "id": 5
+    }
   ]
 }
